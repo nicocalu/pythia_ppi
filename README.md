@@ -21,5 +21,5 @@ R3669 Dataset: https://drive.google.com/drive/folders/16MRNopn7dABr3xU7-aSAzXab_
 ## Inference
 example
 ```
-python inference.py 
+python inference.py ./example/1CSE.pdb
 ```
