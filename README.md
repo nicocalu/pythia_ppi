@@ -8,7 +8,7 @@ git clone https://github.com/Wublab/pythia_ppi.git
 ```
 To install the necessary python dependencies, then use the file ```environment.yml```
 ```
-conda env create -f environment.yml
+conda env create -f environment.yml -j -1
 ```
 ## Dataset Availability
 The datasets in this study can be found in the following locations from the Google Drive(Note: To save time on model training, we also provide the corresponding feature data of these dataset.):
