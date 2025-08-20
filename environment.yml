@@ -317,7 +317,7 @@ dependencies:
       - alembic==1.13.1
       - antlr4-python3-runtime==4.9.3
       - appdirs==1.4.4
-      - bio==1.7.0
+      - bio==1.7.1
       - biothings-client==0.3.1
       - cachetools==5.3.1
       - cloudmol==0.1.2
