@@ -6,6 +6,19 @@ channels:
   - defaults
   - bioconda
   - conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/Paddle/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/fastai/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_kmp_llvm
