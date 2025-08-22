@@ -1,4 +1,5 @@
 name: pythia_ppi
+prefix : /tmp
 channels:
   - anaconda
   - pytorch
@@ -370,4 +371,3 @@ dependencies:
       - torch==2.1.2
       - triton==2.1.0
       - wandb==0.15.12
-prefix: /data/home/scv6387/run/taofangting/miniconda3/envs/torch
